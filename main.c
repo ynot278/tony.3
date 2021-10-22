@@ -139,7 +139,6 @@ int main(int argc, char *argv[]){
 
 	int opt;
 
-	//if invoked with -h or anything else, display usage.
 	while ((opt = getopt(argc, argv, "h")) != -1){
 		switch (opt){
 			case 'h':
