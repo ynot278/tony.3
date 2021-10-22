@@ -1,0 +1,28 @@
+# Project 3 OS
+
+Author: Tony Pham
+
+# Files
+    main.c - main
+    testsim.c - process
+    config.h
+    Makefile
+    testing.data - did not use besides ftok
+		README
+		log.txt - output file
+    
+# Build
+    make
+
+# Run
+    ./runsim n
+    
+# Remove runsim/testsim
+    make clean
+
+##### Changes/Implemented
+> Not able to fully complete
+> Shared memory/message queue attaches/detaches/removed at end
+> output file works
+
+https://github.com/ynot278/tony.3
